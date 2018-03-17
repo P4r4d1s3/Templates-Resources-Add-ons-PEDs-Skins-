@@ -8,14 +8,6 @@ para achar todas essas coisas.
 # CONTRIBUIDORES
 
 -
--
--
--
--
--
--
--
--
 
 # LINKS ÚTEIS
 - https://github.com/shadowbrz/Shadow_vRP-Brasil ( Base do shadowbrz )
