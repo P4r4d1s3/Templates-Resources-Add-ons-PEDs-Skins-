@@ -18,4 +18,5 @@ para achar todas essas coisas.
 -
 
 # LINKS ÚTEIS
-- 
+- https://github.com/shadowbrz/Shadow_vRP-Brasil ( Base do shadowbrz )
+- https://github.com/shadowbrz ( Todos os arquivos do shadowbrz )
