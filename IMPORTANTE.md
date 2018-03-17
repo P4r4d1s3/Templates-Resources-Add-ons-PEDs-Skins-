@@ -10,5 +10,6 @@ para achar todas essas coisas.
 -
 
 # LINKS ÚTEIS
+- Discord fiveM Devs Brasil: https://discord.gg/XqgYDnm
 - https://github.com/shadowbrz/Shadow_vRP-Brasil ( Base do shadowbrz )
 - https://github.com/shadowbrz ( Todos os arquivos do shadowbrz )
