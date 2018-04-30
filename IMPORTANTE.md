@@ -13,3 +13,4 @@ para achar todas essas coisas.
 - Discord fiveM Devs Brasil: https://discord.gg/XqgYDnm
 - https://github.com/shadowbrz/Shadow_vRP-Brasil ( Base do shadowbrz )
 - https://github.com/shadowbrz ( Todos os arquivos do shadowbrz )
+- Tutorial Resources: https://forum.fivem.net/t/tutorial-fivem-resources-add-ons-peds-skins/101270
